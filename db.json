@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Learning",
+      "day": "Dec 3",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Travel",
+      "day": "Dec 5",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Shubh",
+      "day": "Nov 9",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Save",
+      "day": "Jan 11",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
