@@ -1,4 +1,4 @@
-# to-do-tracker-learning
+# to-do-learning
 
 Install the dependencies
 
